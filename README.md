@@ -228,4 +228,7 @@ This project not only fulfills the requirement of using local storage but also p
   <img src="assets/screenshots/3.jpg" width="220" />
   <img src="assets/screenshots/4.jpg" width="220" />
   <img src="assets/screenshots/5.jpg" width="220" />
+  <img src="assets/screenshots/6.jpg" width="220" />
+  <img src="assets/screenshots/7.jpg" width="220" />
+  <img src="assets/screenshots/8.jpg" width="220" />
 </p>
