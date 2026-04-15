@@ -217,3 +217,15 @@ The application can be further improved by adding:
 The Expense Tracker application is a complete and practical implementation of a financial management tool. It demonstrates how Flutter can be used to build responsive, visually appealing, and fully functional mobile applications.
 
 This project not only fulfills the requirement of using local storage but also provides a real-world solution for personal finance management.
+
+---
+
+## 📸 Screenshots
+
+<p align="center">
+  <img src="assets/screenshots/1.jpg" width="220" />
+  <img src="assets/screenshots/2.jpg" width="220" />
+  <img src="assets/screenshots/3.jpg" width="220" />
+  <img src="assets/screenshots/4.jpg" width="220" />
+  <img src="assets/screenshots/5.jpg" width="220" />
+</p>
